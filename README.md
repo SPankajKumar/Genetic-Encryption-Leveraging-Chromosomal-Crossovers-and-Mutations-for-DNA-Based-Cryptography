@@ -1,1 +1,1 @@
-# Genetic-Encryption-Leveraging-Chromosomal-Crossovers-and-Mutations-for-DNA-Based-Cryptography
+# Genetic Encryption:Leveraging Chromosomal Crossovers and Mutations for DNA Based Cryptography
