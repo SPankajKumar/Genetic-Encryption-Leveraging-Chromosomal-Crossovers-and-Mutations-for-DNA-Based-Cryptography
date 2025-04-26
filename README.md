@@ -115,5 +115,4 @@ Due to multiple mutation and crossover combinations per chromosome—each tracke
 - DNA-inspired key generation using live biological data
 - Development of standard libraries and APIs for D-GET
 
-## 📁 Repository Structure
 
